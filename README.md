@@ -7,23 +7,22 @@ explicitly intend to support.
 
 Projects MUST:
 
-* Include a README
-* Include useful and informative commit messages about why a change was made
-* Include a CHANGELOG as per https://metacpan.org/module/CPAN::Changes::Spec
-* Include a valid Open Source LICENSE file as per http://opensource.org/licenses
-* Provide a link to a public list of known issues and bugs 
-* Provide an email address to send security related bug reports to
-* Provide a version number compatible with Semantic Versioning as per http://semver.org/spec/v2.0.0.html
+* include a README
+* include useful and informative commit messages about why a change was made
+* include a CHANGELOG as per https://metacpan.org/module/CPAN::Changes::Spec
+* include a valid Open Source LICENSE file as per http://opensource.org/licenses
+* provide a link to a public list of known issues and bugs 
+* provide an email address to send security related bug reports to
+* provide a version number compatible with Semantic Versioning as per http://semver.org/spec/v2.0.0.html
 
 Projects SHOULD:
 
-* Publish packages to relevant language specific repositories such as PyPi, Ruby Gems, NPM,
+* publish packages to relevant language specific repositories such as PyPi, Ruby Gems, NPM,
   Puppet Forge, etc.
-* Publish contributors guidelines in a CONTRIBUTING file
-* Set up any tests to run in a public continuous integration environment
+* publish contributors guidelines in a CONTRIBUTING file
+* set up any tests to run in a public continuous integration environment
 
 Projects MAY:
 
-* Include a CONTRIBUTORS file, for instance http://golang.org/CONTRIBUTORS
-* Provide a mailing list for discussion of the project
-
+* include a CONTRIBUTORS file, for instance http://golang.org/CONTRIBUTORS
+* provide a mailing list for discussion of the project
